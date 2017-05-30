@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\salow\Pictures\Android test\Dia\ParseStarterProject\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="C:\Users\salow\Pictures\Android test\Dia\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-1318c82b0095f1b7d3c53a4c2e79ab1bf97af18f.jar" />
+    </item>
+    <item
+        jar="C:\Users\salow\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\salow\Pictures\Android test\Dia\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-e95b6bef6d0d55e346ab5c824e70deb8e2768aec.jar" />
+    </item>
+
+</items>
